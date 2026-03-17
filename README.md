@@ -11,6 +11,12 @@ Key components:
 - Multi-scale Group-wise Attention (MGA)
 - Spatial Location Awareness Module (SLAM)
 
+## 🔗 DOI
+
+This repository is archived on Zenodo:
+
+[https://doi.org/10.5281/zenodo.19062448]
+
 ## Train&Test
 python train.py
 
