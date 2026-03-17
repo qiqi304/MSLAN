@@ -16,9 +16,12 @@ python train.py
 
 ## data
 The dataset we use can be downloaded via the following link.
+| dataset | Download |
+|----------|-----------|
 | ShanghaiTech | https://github.com/svishwa/crowdcount-mcnn |
 | UCF-QNRF |  https://www.crcv.ucf.edu/data/ucf-qnrf/ |
 | JHU-Crowd++ |  http://www.crowd-counting.com |
 | NWPU-Crowd |  https://gjy3035.github.io/NWPU-CrowdSample-Code/ |
 
-## Pre-trained weights
+## Pre-trained weight
+https://github.com/qiqi304/MSLAN/releases/download/weight/mpvit_small.pth
