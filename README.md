@@ -1,5 +1,5 @@
 # MSLAN
- 🔥 This repository is the official implementation corresponding to our submission to *The Visual Computer*. Please cite our paper if you use this code.
+ 🔥 This repository is the official implementation corresponding to our submission to *Pattern Analysis and Applications*. Please cite our paper if you use this code.
 
 ## 📌 Overview
 
